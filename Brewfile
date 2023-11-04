@@ -33,7 +33,6 @@ cask "visual-studio-code"
 cask "obsidian"
 cask "logseq"
 cask "authy"
-mas "Kindle", id: 405399194
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Tailscale", id: 1475387142
 mas "WiFi Signal", id: 525912054
