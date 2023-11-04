@@ -26,8 +26,13 @@ cask "logi-options-plus"
 cask "microsoft-auto-update"
 cask "qbittorrent"
 cask "stats"
-cask "warp"
 cask "yacreader"
+cask "wezterm"
+cask "google-chrome"
+cask "visual-studio-code"
+cask "obsidian"
+cask "logseq"
+cask "authy"
 mas "Kindle", id: 405399194
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Tailscale", id: 1475387142
